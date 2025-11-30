@@ -38,7 +38,7 @@ python main.py if you cant start script
 *************************************************************
 > +........ --> test number
 *************************************************************
-> *open new >*
+# *open new*
 ```
 cd BAND-V-1-ADHI-OFC && python main.py
 ```
