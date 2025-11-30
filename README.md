@@ -4,23 +4,42 @@ It is a group of robots that send reporting requests from different devices to t
 
 band or unband whatsapp using termux or kali by python script
 =
+```
 pkg install update && pkg install upgrade
+```
 *************************************************************
+```
 pkg install git
+```
 *************************************************************
+```
 pkg install openssl
+```
 *************************************************************
+```
 pkg install python
+```
 *************************************************************
+```
 pip install requests
+```
 *************************************************************
+```
 pip install colorama
+```
 *************************************************************
+```
 git clone https://github.com/cyber-adhi-ofc/BAND-V-1-ADHI-OFC.git && cd Tool_Ban_WhatsappV1.1
+```
 *************************************************************
+```
 python main.py if you cant start script
+```
 *************************************************************
-*** +........ --> test number
+> +........ --> test number
 *************************************************************
-open new > cd BAND-V-1-ADHI-OFC && python main.py
+> *open new >*
+```
+cd BAND-V-1-ADHI-OFC && python main.py
+```
 *************************************************************
